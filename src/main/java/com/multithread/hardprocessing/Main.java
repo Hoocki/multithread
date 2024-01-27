@@ -1,4 +1,4 @@
-package org.example.hardprocessing;
+package com.multithread.hardprocessing;
 
 public class Main {
     public static void main(final String[] args) {
