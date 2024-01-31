@@ -1,4 +1,4 @@
-package org.example.hardprocessing;
+package com.multithread.hardprocessing;
 
 import java.util.List;
 import java.util.concurrent.Callable;
